@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá pessoal, eu sou o Kevyn! É um prazer conhece-lo(a)
 
-<!--
-**KevynBerbertdosReis/KevynBerbertdosReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com suporte em informática
+- 🌱 Estou aprendendo typeScript e Python
+- 📫 fale comigo pelo email: dosreiskevyn@gmail.com
+- 😄 Pronomes: Ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href=https://github.com/KevynBerbertdosReis>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevynBerbertdosReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=KevynBerbertdosReis&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kevyn-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Kevyn-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Kevyn-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Kevyn-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Kevyn-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Kevyn-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Kevyn-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Kevyn-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />        
+</div>
+
+##
